@@ -1,20 +1,14 @@
 ---
-title: Markdown Mermaid
+title: 我爱jinby
 published: 2023-10-01
 pinned: false
 description: A simple example of a Markdown blog post with Mermaid.
-tags: [Markdown, Blogging, Mermaid]
+tags: [jinby]
 category: Examples
 draft: false
 ---
 # Complete Guide to Markdown with Mermaid Diagrams
-
-This article demonstrates how to create various complex diagrams using Mermaid in Markdown documents, including flowcharts, sequence diagrams, Gantt charts, class diagrams, and state diagrams.
-
-## Flowchart Example
-
-Flowcharts are excellent for representing processes or algorithm steps.
-
+ 我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby我爱jinby
 
 
 
